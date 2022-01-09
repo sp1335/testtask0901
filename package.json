@@ -1,0 +1,27 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "test js task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": " <wwiarenicz@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "hbs": "^4.2.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sp1335/testtask0901.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sp1335/testtask0901/issues"
+  },
+  "homepage": "https://github.com/sp1335/testtask0901#readme"
+}
